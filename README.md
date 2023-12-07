@@ -11,4 +11,4 @@ The aim of this project is to discover valuable insights regarding sales pattern
 ### Analysis and Visualization
 To answer the problem statements, a thorough analysis was conducted with SQL and the queries integrated into Power BI,for a more compelling representation of the answers.
 
-You can find the full documentation on my [medium blog]().
+You can find the full documentation on my [medium blog](https://medium.com/@iyanuolatunji21/exploring-adventureworks2019-database-using-sql-fdffac5d8b25).
